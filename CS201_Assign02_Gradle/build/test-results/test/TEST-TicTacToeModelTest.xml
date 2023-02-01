@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TicTacToeModelTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-02-01T18:17:30" hostname="ADURO" time="0.001">
+  <properties/>
+  <testcase name="testUpdateTurn" classname="TicTacToeModelTest" time="0.0"/>
+  <testcase name="testPlaceMarker" classname="TicTacToeModelTest" time="0.0"/>
+  <testcase name="testGetCell" classname="TicTacToeModelTest" time="0.0"/>
+  <testcase name="testGetTurn" classname="TicTacToeModelTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

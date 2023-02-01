@@ -1,0 +1,13 @@
+build.gradle
+collected-files.txt
+Makefile
+saveGame.txt
+settings.gradle
+src/main/java/TicTacToeConsole.java
+src/main/java/TicTacToeController.java
+src/main/java/TicTacToeGUI.java
+src/main/java/TicTacToeModel.java
+src/main/java/TicTacToePanel.java
+src/test/java/TicTacToeControllerTest.java
+src/test/java/TicTacToeModelTest.java
+submitToMarmoset.pl
