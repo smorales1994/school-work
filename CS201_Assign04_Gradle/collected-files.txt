@@ -1,0 +1,16 @@
+submitToMarmoset.pl
+build.gradle
+Makefile
+settings.gradle
+src/main/java/Mandelbrot.java
+src/main/java/MandelbrotTask.java
+src/main/java/ColorMappingColorChooser.java
+src/main/java/Complex.java
+src/main/java/Rect.java
+src/main/java/ColorChooser.java
+src/main/java/SimpleGradientColorChooser.java
+src/test/java/MandelbrotTaskTest.java
+src/test/java/ColorMappingColorChooserTest.java
+src/test/java/ComplexTest.java
+collected-files.txt
+output.png
